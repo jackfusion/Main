@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Prograss report for website
 menu
  - Home - about me
@@ -18,3 +19,7 @@ menu
   - Education
 
 fix responsive fro bio description
+=======
+# Main
+This will be my portfolio
+>>>>>>> 0cf9ecdac86d03884e9cf04ae4554a353e24d021
